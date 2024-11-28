@@ -1,0 +1,111 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Lean_grah",
+      "email": "Lean_grah@april.biz",
+      "clase": 1,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Erv_How",
+      "email": "Erv_How@april.biz",
+      "clase": 2,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Clem_Bau",
+      "email": "Clem_Bau@april.biz",
+      "clase": 3,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Patr_Leb",
+      "email": "Patr_Leb@april.biz",
+      "clase": 1,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Chel_Diet",
+      "email": "Chel_Diet@april.biz",
+      "clase": 2,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 6,
+      "name": "Dennis Schulist",
+      "username": "Denn_Schu",
+      "email": "Denn_Schu@april.biz",
+      "clase": 3,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "kurt_Weiss",
+      "email": "kurt_Weiss@april.biz",
+      "clase": 1,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir",
+      "username": "Nich_Runo",
+      "email": "Nich_Runo@april.biz",
+      "clase": 2,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Glen_Reich",
+      "email": "Glen_Reic@april.biz",
+      "clase": 3,
+      "phone": "1-770-736-8031 x56442"
+      
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Clem_Dubu",
+      "email": "Clem_Dubu@april.biz",
+      "clase": 1,
+      "phone": "1-770-736-8031 x56442"
+      
+    }
+    
+  ],
+  
+
+  "Clase": [
+    {"id":1,
+    "nombre_clase": "Arquitectura",
+    "bloque": 1
+    },
+    {"id":2,
+    "nombre_clase": "Aplicaciones Moviles",
+    "bloque": 2
+    },
+    {"id":3,
+    "nombre_clase": "Calidad de Software",
+    "bloque": 3
+    }
+  ]
+}

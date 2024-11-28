@@ -1,0 +1,33 @@
+ion-icon {
+    display: grid;
+    place-content: center;
+    font-size: 500px;
+    margin: auto;
+  }
+
+h1{
+    display: grid;
+    place-content: center;
+    font-size: 150px;
+    margin: auto;
+}
+
+
+
+@media (max-width: 937px) {
+  ion-icon {
+    display: grid;
+    place-content: center;
+    font-size: 200px;
+    margin: auto;
+  }
+ 
+
+  h1{
+      display: grid;
+      place-content: center;
+      font-size: 40px;
+      margin: auto;
+  };
+  
+}

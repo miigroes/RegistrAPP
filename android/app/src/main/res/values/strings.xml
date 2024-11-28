@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">registrap</string>
+    <string name="title_activity_main">registrap</string>
+    <string name="package_name">com.registrap.app</string>
+    <string name="custom_url_scheme">com.registrap.app</string>
+</resources>
